@@ -1,7 +1,4 @@
-# HelloNerves
-
-**TODO: Add description**
-
+# Hello Nerves
 ## Targets
 
 Nerves applications produce images for hardware targets based on the
